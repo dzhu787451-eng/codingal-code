@@ -7,4 +7,4 @@ try:
     else:
         print("Your age is odd")
 except ValueError:
-    print("Error: Please enter a whole number")
+    print("Error: Please enter a positive integer number")
